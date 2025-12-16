@@ -1,0 +1,29 @@
+#search-container {
+  text-align: center;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: calc(100% - 20px);
+  max-width: 760px;
+  margin: 10px auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#search-container #search-input {
+  padding: 10px;
+  width: 80%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+#search-container #results {
+  text-align: left;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+#search-container .result-item {
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}

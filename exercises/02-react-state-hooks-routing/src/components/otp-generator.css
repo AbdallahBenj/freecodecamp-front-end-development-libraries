@@ -1,0 +1,33 @@
+.otp-generator-container {
+  padding: 20px;
+  margin: 10px auto;
+  border-radius: 10px;
+  width: calc(100% - 20px);
+  max-width: 760px;
+  text-align: center;
+  color: #030712;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.otp-generator-container #otp-title {
+  color: oklch(12.9% 0.042 264.695);
+}
+
+.otp-generator-container #otp-display {
+  color: oklch(37.3% 0.034 259.733);
+}
+
+.otp-generator-container #otp-timer {
+  color: oklch(44.6% 0.03 256.802);
+}
+
+.otp-generator-container button {
+  color: white;
+  width: fit-content;
+  background-color: oklch(21% 0.034 264.665);
+}
+
+.otp-generator-container button:hover {
+  background-color: oklch(37.3% 0.034 259.733);
+}

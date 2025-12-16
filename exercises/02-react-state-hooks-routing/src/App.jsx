@@ -1,0 +1,15 @@
+import { Outlet } from 'react-router-dom';
+import Sidebar from './components/sidebar';
+
+import './App.css';
+
+function App() {
+  return (
+    <div className="layout">
+      <Sidebar />
+      <Outlet />
+    </div>
+  );
+}
+
+export default App;

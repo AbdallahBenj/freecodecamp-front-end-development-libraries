@@ -1,0 +1,64 @@
+:root {
+  --dark-grey: #1b1b32;
+  --light-grey: #f5f6f7;
+  --dark-orange: #f89808;
+  --yellow: #f1be32;
+  --golden-yellow: #feac32;
+}
+
+.shopping-list-container {
+  padding: 20px;
+  margin: 10px auto;
+  width: calc(100% - 20px);
+  max-width: 760px;
+  border-radius: 10px;
+  background-color: var(--light-grey);
+}
+
+.shopping-list-container h1 {
+  color: var(--dark-grey);
+}
+
+.shopping-list-container form {
+  text-align: center;
+}
+
+.shopping-list-container button {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+  width: 100px;
+  margin: 3px;
+  color: var(--dark-grey);
+  background-color: var(--golden-yellow);
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border-color: var(--golden-yellow);
+  border-width: 3px;
+}
+
+button:hover {
+  background-image: linear-gradient(#ffcc4c, #f89808);
+}
+
+input {
+  color: var(--dark-grey);
+  margin-left: 5px;
+  padding: 3px;
+}
+
+li {
+  text-align: left;
+  margin: 10px 0;
+}
+
+.selected-item {
+  font-weight: bold;
+}
+
+@media (min-width: 425px) {
+  .container {
+    width: 400px;
+  }
+}

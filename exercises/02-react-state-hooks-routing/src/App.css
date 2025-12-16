@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  color: #1b1b32;
+  background-color: #1b1b32;
+}
+
+h1 {
+  width: calc(100% - 20px);
+  max-width: 760px;
+  margin: auto;
+}

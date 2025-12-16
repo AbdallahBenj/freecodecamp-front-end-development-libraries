@@ -1,0 +1,47 @@
+footer {
+  padding: 25px;
+  font-size: 1.1em;
+  text-align: center;
+  background-color: oklch(97% 0.014 254.604);
+}
+
+.ordered-lists {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.list-items,
+.list-icons {
+  list-style-type: none;
+}
+
+.item {
+  line-height: 25px;
+}
+
+.item a {
+  color: oklch(28.2% 0.091 267.935);
+  text-decoration: none;
+}
+
+.item a:hover {
+  color: oklch(62.3% 0.214 259.815);
+}
+
+.copyright {
+  font-size: 1em;
+  border-bottom: 1px solid #1c398e;
+  width: fit-content;
+  margin: 25px auto 10px;
+  color: #1c398e;
+}
+
+.list-icons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.icon a {
+  text-decoration: none;
+}
