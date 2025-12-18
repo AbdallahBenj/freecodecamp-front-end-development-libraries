@@ -30,11 +30,21 @@ const SuperheroForm = () => {
     setPowers(checked ? [...powers, value] : powers.filter((p) => p !== value));
   };
 
+  // stop page reload
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setHeroName('');
+    setRealName('');
+    setPowerSource('');
+    setPowers([]);
+    console.log('Form submitted');
+  };
+
   return (
     <div className="form-wrap">
       <h2>Superhero Application Form</h2>
       <p>Please complete all fields</p>
-      <form method="post" action="#">
+      <form onSubmit={handleSubmit}>
         <div className="section">
           <label>
             Hero Name
