@@ -1,13 +1,13 @@
-import { Outlet } from 'react-router-dom';
-import Sidebar from './components/sidebar';
+import { Outlet } from "react-router-dom";
+import Sidebar from "./components/sidebar";
 
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="layout">
-      <Sidebar />
       <Outlet />
+      <Sidebar />
     </div>
   );
 }
