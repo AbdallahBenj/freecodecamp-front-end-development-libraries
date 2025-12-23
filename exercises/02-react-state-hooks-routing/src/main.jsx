@@ -11,6 +11,7 @@ import OTPGenerator from "./components/otp-generator.jsx";
 import SuperheroForm from "./components/superhero-form.jsx";
 import EventRSVP from "./components/event-rsvp.jsx";
 import ShoppingList from "./components/shopping-list.jsx";
+import ScrollToTop from "./components/ScrollToTop.jsx";
 
 import "./index.css";
 import App from "./App.jsx";
@@ -18,6 +19,7 @@ import App from "./App.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <HashRouter>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<App />}>
           <Route index element={<Home />} />
