@@ -1,0 +1,41 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 100%;
+  border-radius: 16px;
+  background-color: #1a1a1a;
+  box-shadow: 0px 1px 10px rgba(255, 255, 255, 0.5);
+}
+
+.title {
+  margin: 26px auto 36px;
+  margin-top: 16px;
+  font-size: 46px;
+}
+
+.currency-form label {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.currency-form input,
+.currency-form select {
+  width: 96%;
+  padding: 3px;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 6px auto 36px;
+  border-radius: 6px;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+}
+
+.result {
+  font-size: 26px;
+  font-weight: 700;
+}
