@@ -81,7 +81,8 @@ Each exercise is a small React + Vite app focused on a specific concept.
 
 The certification also includes larger projects that combine multiple concepts into complete applications:
 
-🔹 **Build a Currency Converter**  
+🔹 [Build a Currency Converter] (https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/01-currency-converter/)
+
 🔹 **Build a Tic-Tac-Toe Game**
 
 Each project reinforces real-world skills such as:
