@@ -1,0 +1,30 @@
+.card {
+  padding: 60px;
+  border-radius: 4px;
+  box-shadow: 1px 2px 12px whitesmoke;
+}
+
+.button-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 10px;
+  width: fit-content;
+  margin: auto;
+}
+
+.button-container button {
+  width: 100px;
+  height: 100px;
+  font-size: 4em;
+  padding: 0;
+}
+
+.player {
+  font-size: 2em;
+
+}
+
+.reset-button {
+  font-size: 1.6em;
+}

@@ -83,7 +83,7 @@ The certification also includes larger projects that combine multiple concepts i
 
 🔹 [01 – Build a Currency Converter](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/01-currency-converter/)
 
-🔹 **Build a Tic-Tac-Toe Game**
+🔹 [01 – Build a Tic-Tac-Toe Game](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/02-tic-tac-toe/)
 
 Each project reinforces real-world skills such as:
 
