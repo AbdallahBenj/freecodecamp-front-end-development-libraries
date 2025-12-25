@@ -83,7 +83,7 @@ const TicTacToe = () => {
   return (
     <div className="card">
       <h1>Tic Tac Toe</h1>
-      <h2 className="player">{count}</h2>
+      <h2 className="player">Step: {count}</h2>
       <h2
         className="player"
         style={{
