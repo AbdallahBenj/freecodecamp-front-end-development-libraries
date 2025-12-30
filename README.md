@@ -79,7 +79,7 @@ These are small React apps built with Vite, each focusing on a specific concept.
 🎨 Tailwind CSS Exercises
 These are static HTML + Tailwind CSS exercises focused on UI, layout, and styling concepts.
 
-🔹 [03 – CTA Component](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/03-tailwind-cta-component/)
+🔹 [03 – CTA Component](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/03-tailwind-cta-component/)  
 🔹 [04 – Music App Pricing](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/04-tailwind-music-app-pricing/)
 
 > 📌 These exercises focus on **learning and experimentation**, not final production apps.
