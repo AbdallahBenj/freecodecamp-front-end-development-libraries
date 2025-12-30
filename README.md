@@ -68,10 +68,18 @@ This certification focuses on building **modern, interactive user interfaces** u
 
 ## 📝 Exercises (Live Demos)
 
-Each exercise is a small React + Vite app focused on a specific concept.
+Each exercise is a small project focused on learning and practice.
+
+⚛️ React + Vite Exercises
+These are small React apps built with Vite, each focusing on a specific concept.
 
 🔹 [01 – React Fundamentals](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/01-react-basics/)  
 🔹 [02 – React State, Hooks, and Routing](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/02-react-state-hooks-routing/)
+
+🎨 Tailwind CSS Exercises
+These are static HTML + Tailwind CSS exercises focused on UI, layout, and styling concepts.
+
+🔹 [03 – CTA Component](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/03-tailwind-cta-component/)
 
 > 📌 These exercises focus on **learning and experimentation**, not final production apps.
 
