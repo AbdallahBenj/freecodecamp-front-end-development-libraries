@@ -81,7 +81,8 @@ These are static HTML + Tailwind CSS exercises focused on UI, layout, and stylin
 
 🔹 [03 – CTA Component](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/03-tailwind-cta-component/)  
 🔹 [04 – Music App Pricing](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/04-tailwind-music-app-pricing/)  
-🔹 [05 – Music Shopping Cart Page](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/05-tailwind-music-shopping-cart-page/)
+🔹 [05 – Music Shopping Cart Page](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/05-tailwind-music-shopping-cart-page/)  
+🔹 [06 – Photography Exhibit](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/06-tailwind-photography-exhibit/)
 
 > 📌 These exercises focus on **learning and experimentation**, not final production apps.
 
