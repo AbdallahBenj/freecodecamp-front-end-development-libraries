@@ -80,7 +80,8 @@ These are small React apps built with Vite, each focusing on a specific concept.
 These are static HTML + Tailwind CSS exercises focused on UI, layout, and styling concepts.
 
 🔹 [03 – CTA Component](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/03-tailwind-cta-component/)  
-🔹 [04 – Music App Pricing](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/04-tailwind-music-app-pricing/)
+🔹 [04 – Music App Pricing](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/04-tailwind-music-app-pricing/)  
+🔹 [05 – Music Shopping Cart Page](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/05-tailwind-music-shopping-cart-page/)
 
 > 📌 These exercises focus on **learning and experimentation**, not final production apps.
 
@@ -90,8 +91,7 @@ These are static HTML + Tailwind CSS exercises focused on UI, layout, and stylin
 
 The certification also includes larger projects that combine multiple concepts into complete applications:
 
-🔹 [01 – Build a Currency Converter](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/01-currency-converter/)
-
+🔹 [01 – Build a Currency Converter](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/01-currency-converter/)  
 🔹 [02 – Build a Tic-Tac-Toe Game](https://abdallahbenj.github.io/freecodecamp-front-end-development-libraries/02-tic-tac-toe/)
 
 Each project reinforces real-world skills such as:
